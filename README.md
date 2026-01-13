@@ -1,2 +1,4 @@
 ​# Earthwise Grounding
-​This site is under construction. 
+​This is the official website for Earthwise Grounding.
+
+Live site: EarthWiseGrounding.com
